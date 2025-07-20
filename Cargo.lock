@@ -703,7 +703,8 @@ checksum = "c4013970217383f67b18aef68f6fb2e8d409bc5755227092d32efb0422ba24b8"
 [[package]]
 name = "tree-sitter-qbe"
 version = "0.1.0"
-source = "git+https://github.com/mkanilsson/tree-sitter-qbe.git#31c0c5866b5f754211668729ce04a03a4a3b114d"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ae9e89a72831eb04b6f54f022d59e714f91a98cbff3a37638fb0a06b1520045b"
 dependencies = [
  "cc",
  "tree-sitter-language",
