@@ -5,7 +5,7 @@ edition = "2024"
 license = "MIT"
 repository = "https://github.com/mkanilsson/qbels"
 readme = "README.md"
-desciption = "A simple tree-sitter based lsp implementation for Quick Backend (QBE) IR "
+description = "A simple tree-sitter based lsp implementation for Quick Backend (QBE) IR "
 keywords = ["qbe", "lsp"]
 
 [dependencies]
